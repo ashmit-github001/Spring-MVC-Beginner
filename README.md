@@ -1,4 +1,4 @@
-## Short Description of each project :
+### Short Description of each project :
 
 shopping-mvc-with-xml - Spring MVC example using complete xml based configuration
 
